@@ -1,2 +1,3 @@
 # hello-world
 I HAVE NO IDEA WHAT I'M DOING (yet!)
+Just a small town boy (except not really) learnin' to computer prograaam. Took a Coursera class that goes on and on and on and on...
